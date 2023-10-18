@@ -11,7 +11,7 @@ export class ContentComponent implements OnInit {
 
   photoCover:string = "";
 
-  contentTitle:string = "sasf";
+  contentTitle:string = "";
 
   contentDescription:string = "";
 

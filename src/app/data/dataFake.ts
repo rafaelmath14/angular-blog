@@ -38,5 +38,48 @@ export const dataFake = [
     Poderia nos ajudar a entender melhor a nós mesmos: A IA com consciência poderia nos ajudar a entender melhor a nós mesmos e a nossa própria consciência.
     É importante ressaltar que a IA com consciência também apresenta alguns riscos potenciais. Por exemplo, ela poderia ser usada para criar armas autônomas ou para manipular pessoas. É importante desenvolver a IA com consciência de forma responsável e ética.`,
     "photoCover": "https://i0.wp.com/www.cienciaedados.com/wp-content/uploads/2018/03/Como-a-Computac%CC%A7a%CC%83o-Qua%CC%82ntica-Vai-Revolucionar-a-Intelige%CC%82ncia-Artificial-Machine-Learning-e-Big-Data.jpg?w=821&ssl=1"
+  },
+  {
+    "id": "3",
+    "title": "Porque tudo está virando pornô?",
+    "description": `O mundo da pornografia atende os mais variados gostos, somento no site xvideos existem mais de 2 mil tags relacionadas aos gostos. Por isso as produtoras aproveitam para criar filmes pornográficos baseados em filmes "tradicionais".
+    Não vou fazer uma lista mas convido o leitor motivado a pesquisar :D`,
+    "photoCover": "https://adulto.vip/wp-content/uploads/2021/10/filmes-e-series-que-viraram-porno.jpg.webp"
+  },
+  {
+    "id": "4",
+    "title": "Dificuldades para demonstrar teoremas e como superar.",
+    "description": `Demonstrar teoremas é uma tarefa desafiadora, que requer uma compreensão profunda dos conceitos matemáticos envolvidos. Algumas das dificuldades comuns que os estudantes enfrentam ao tentar demonstrar teoremas incluem:
+
+    Falta de compreensão dos conceitos envolvidos: Se o estudante não tiver uma compreensão clara dos conceitos envolvidos no teorema, será difícil para ele desenvolver uma demonstração. É importante que o estudante se familiarize com os conceitos envolvidos e entenda como eles se relacionam entre si.
+    Dificuldade em pensar de forma lógica: Demonstrar teoremas requer um pensamento lógico e organizado. O estudante precisa ser capaz de seguir uma sequência de passos lógicos para chegar à conclusão desejada.
+    Falta de prática: A prática é essencial para se tornar proficiente na demonstração de teoremas. Quanto mais o estudante praticar, mais fácil será para ele desenvolver demonstrações claras e concisas.
+    Aqui estão algumas dicas para superar as dificuldades de demonstrar teoremas:
+
+    Faça um brainstorm: Antes de começar a escrever a demonstração, faça um brainstorming sobre os conceitos envolvidos e como eles se relacionam entre si. Isso ajudará você a ter uma visão geral do problema e a desenvolver um plano para a demonstração.
+    Use diagramas: Diagramas podem ser uma ferramenta útil para demonstrar teoremas. Eles podem ajudar a visualizar os conceitos envolvidos e a acompanhar o fluxo da demonstração.
+    Explique cada passo: É importante explicar cada passo da demonstração de forma clara e concisa. Use linguagem simples e evite jargões matemáticos.
+    Revise sua demonstração: Depois de terminar de escrever a demonstração, revise-a cuidadosamente para garantir que ela esteja correta e clara.
+    Aqui estão alguns recursos que podem ajudar os estudantes a aprender a demonstrar teoremas:
+
+    Livros-texto: Muitos livros-texto de matemática incluem seções sobre como demonstrar teoremas.
+    Sites: Existem vários sites que oferecem recursos sobre como demonstrar teoremas.
+    Cursos online: Existem vários cursos online que ensinam como demonstrar teoremas.
+    Com dedicação e prática, qualquer estudante pode aprender a demonstrar teoremas.
+    `,
+    "photoCover": "https://ichef.bbci.co.uk/news/800/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpggi"
+  },
+  {
+    "id": "5",
+    "title": "",
+    "description": "",
+    "photoCover": ""
+  },
+  {
+    "id": "6",
+    "title": "",
+    "description": "",
+    "photoCover": ""
   }
+
 ]
